@@ -5,7 +5,7 @@ print(4 - 7)  # sub
 print(2 * 5.3)  # multi
 print(9.3 / 3)  # division -> result is float type
 print(9 // 3)  # division -> result is rounded and int type
-print(2 ** 8)  # potency
+print(2 ** 8)  # power
 print(10 % 3)  # module
 
 

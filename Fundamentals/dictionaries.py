@@ -3,6 +3,7 @@
 # que pode ser de qualquer tipo.
 
 print('[Accessing values]')
+print(dict(name='John', age=20))
 person = {
     'name': 'Teacher Alice',
     'age': 38,
